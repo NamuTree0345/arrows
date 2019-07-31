@@ -1,18 +1,17 @@
-# arrows
-The Programing language based on JavaScript
+# arrows(한글 번역)
+arrows는 프로그래밍 언어 입니다!
 
-## Syntax
-### Variables
-You can assign variables with `<-`
+## 문법
+### 변수
+`<-` 로 변수를 선언할 수 있습니다.
 > ```SomeVariable <- "test value"```
 
-## Types
-Variables are non-typed, so they can be any types.
-Available types are:
-* Number (e.g. `123`)
-* String (e.g. `"test"`)
+## 변수 형식
+변수를 선언할때 형식을 쓸 필요는 없습니다. 대신 인터프리터가 형식을 알아서 지정해 줍니다.
+* Number 형식은 `123` 과 비슷합니다.
+* String 형식은 `"test"` 과 비슷합니다.
 
-## Keywords
-`con` - console
-`if` - if statement
-`exit` - exit the program. Assigning number to it will work as return code.
+## 키워드
+`con` - 콘솔
+`if` - 조건문
+`exit` - 코드를 끝냅니다. <- 뒤에 exit code를 적어주면 됩니다.
